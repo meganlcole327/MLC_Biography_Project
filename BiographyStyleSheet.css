@@ -1,7 +1,11 @@
+#Style Sheet for html biography page. 
+#Add light pink bachground
 body{
     background-color:lavenderblush;
     margin: 50px;
 }
+#Add corral features to page to accent light pink background
+#Make headers corral
 h1{
     border:5px dotted lightcoral;
     padding: 20px; 
@@ -30,5 +34,5 @@ h5{
     text-align: center;
 }
 p{
-    text-indent:3%; 
+    text-indent:2%; 
 }
